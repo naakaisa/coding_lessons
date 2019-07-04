@@ -6,7 +6,7 @@ My coding journey
 [2013] : Started learning HTML and CSS
 [2013 - 2016] : Used HTML and CSS on my job as a web designer
 [2016 - 2017] : Learnt Ruby on Rails
-[2018 - 2019] : Learnt Javascript and Python
+[2018 - 2019] : Learnt a bit Javascript and currently learning Python
 
 ## The best way to learn coding is to code
 Practice makes one perfect. It is not enough to watch videos and read articles on coding. Try to write code even it brings up errors.Through your errors you polish your ability to write code.You learn by coding.
